@@ -11,3 +11,9 @@ Protokoll von Tim Steven Meier
 |3.11|1,5 Stunden|Gruppen-Meeting|
 |4.11|3,5 Stunden|Mockups erweitern(App und Web)|
 |6.11|3,5 Stunden|Mockups erweitern(App)|
+|10.11|1,5 Stunden|Gruppenmeeting|
+|10.11|1,5 Stunden|Mockups umsetzen|
+|12.11|1 Stunde|In Android Studio einarbeiten|
+|14.11|1 Stunde|Präsentation(Testverfahren in Android Studio) vorbereiten|
+|15.11|0,5 Stunden|Präsentation vorbereiten|
+|16.11|2 Stunden|Präsentation fertigstellen|
