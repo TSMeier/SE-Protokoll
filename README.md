@@ -20,3 +20,5 @@ Protokoll von Tim Steven Meier
 |17.11|4 Stunden|Gruppenmeeting und Impressum Fragment|
 |21.11|1,5 Stunden|Travis und Gradle anschauen|
 |22.11|3 Stunden|Travis und Gradle einbauen|
+|24.11|4 Stunden|Gruppenmeeting und Android Studio|
+|27.11|0,5 Stunden|Tests schreiben|
