@@ -22,3 +22,5 @@ Protokoll von Tim Steven Meier
 |22.11|3 Stunden|Travis und Gradle einbauen|
 |24.11|4 Stunden|Gruppenmeeting und Android Studio|
 |27.11|0,5 Stunden|Tests schreiben|
+|29.11|2 Stunden|Tests schreiben|
+|01.12|4 Stunden|Gruppenmeeting und Tests schreiben|
