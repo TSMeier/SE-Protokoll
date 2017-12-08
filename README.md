@@ -24,3 +24,4 @@ Protokoll von Tim Steven Meier
 |27.11|0,5 Stunden|Tests schreiben|
 |29.11|2 Stunden|Tests schreiben|
 |01.12|4 Stunden|Gruppenmeeting und Tests schreiben|
+|08.12|4 Stunden|Travis und Gradle bearbeiten|
