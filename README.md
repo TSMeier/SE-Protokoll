@@ -25,5 +25,6 @@ Protokoll von Tim Steven Meier
 |29.11.17|2 Stunden|Tests schreiben|
 |01.12.17|5 Stunden|Gruppenmeeting und Tests schreiben|
 |08.12.17|5 Stunden|Travis und Gradle bearbeiten|
+|15.12.17|5 Stunden|Travis und Gradle bearbeiten|
 |03.01.18|2 Stunden|Tests schreiben|
 |05.01.18|5 Stunden|Tests schreiben|
