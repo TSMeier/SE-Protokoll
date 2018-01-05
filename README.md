@@ -4,15 +4,13 @@ Protokoll von Tim Steven Meier
 |Datum|Aufwand|Aufgabe|
 |---|---|---|
 |21.10.17|2 Stunden|Zusammenfassung der Vorlesungsfolien|
-|27.10.17|1,5 Stunden|Gruppenmeeting|
-|27.10.17|3 Stunden|Erste Mockup-Ideen(App)|
+|27.10.17|4,5 Stunden|Gruppenmeeting und Erste Mockup-Ideen(App)|
 |28.10.17|1 Stunde|Mockups überarbeiten(beides)|
 |29.10.17|1 Stunde|Mockups überarbeiten(Web)|
 |03.11.17|1,5 Stunden|Gruppen-Meeting|
 |04.11.17|3,5 Stunden|Mockups erweitern(App und Web)|
 |06.11.17|3,5 Stunden|Mockups erweitern(App)|
-|10.11.17|1,5 Stunden|Gruppenmeeting|
-|10.11.17|1,5 Stunden|Mockups umsetzen|
+|10.11.17|3 Stunden|Gruppenmeeting und Mockups umsetzen|
 |12.11.17|1 Stunde|In Android Studio einarbeiten|
 |14.11.17|1 Stunde|Präsentation(Testverfahren in Android Studio) vorbereiten|
 |15.11.17|0,5 Stunden|Präsentation vorbereiten|
