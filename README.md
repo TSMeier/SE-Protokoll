@@ -26,3 +26,4 @@ Protokoll von Tim Steven Meier
 |15.12.17|5 Stunden|Travis und Gradle bearbeiten|
 |03.01.18|2 Stunden|Tests schreiben|
 |05.01.18|5 Stunden|Tests schreiben|
+|12.01.18|3 Stunden|Tests umstrukturieren|
