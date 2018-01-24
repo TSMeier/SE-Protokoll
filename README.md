@@ -27,3 +27,6 @@ Protokoll von Tim Steven Meier
 |03.01.18|2 Stunden|Tests schreiben|
 |05.01.18|5 Stunden|Tests schreiben|
 |12.01.18|3 Stunden|Tests umstrukturieren|
+|19.01.18|3 Stunden|Tests und Diverses|
+|23.01.18|0,5 Stunden|Neue Funktionen innerhalb der App testen|
+|24.01.18|2 Stunden|Gruppenmeeting + Neue (und alte) Funktionen innerhalb der App testen|
