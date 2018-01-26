@@ -22,11 +22,13 @@ Protokoll von Tim Steven Meier
 |27.11.17|0,5 Stunden|Tests schreiben|
 |29.11.17|2 Stunden|Tests schreiben|
 |01.12.17|5 Stunden|Gruppenmeeting und Tests schreiben|
-|08.12.17|5 Stunden|Travis und Gradle bearbeiten|
-|15.12.17|5 Stunden|Travis und Gradle bearbeiten|
+|08.12.17|5 Stunden|Gruppenmeeting und Travis und Gradle bearbeiten|
+|15.12.17|5 Stunden|Gruppenmeeting und Travis und Gradle bearbeiten|
 |03.01.18|2 Stunden|Tests schreiben|
-|05.01.18|5 Stunden|Tests schreiben|
-|12.01.18|3 Stunden|Tests umstrukturieren|
-|19.01.18|3 Stunden|Tests und Diverses|
+|05.01.18|5 Stunden|Gruppenmeeting und Tests schreiben|
+|12.01.18|3 Stunden|Gruppenmeeting und Tests umstrukturieren|
+|19.01.18|3 Stunden|Gruppenmeeting und Tests und Diverses|
 |23.01.18|0,5 Stunden|Neue Funktionen innerhalb der App testen|
 |24.01.18|2 Stunden|Gruppenmeeting + Neue (und alte) Funktionen innerhalb der App testen|
+|25.01.18|1 Stunde|Tests auf den neuesten Stand bringen|
+|26.01.18|2 Stunden|Gruppenmeeting und Vorbereiten auf die Präsentation|
